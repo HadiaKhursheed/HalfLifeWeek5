@@ -16,7 +16,7 @@
 
 1. [2026-11-08: For this week I want some cool project that will be a table lamp. I got inspiration from Pinterest. To make the lamp I need to make lasercut designs of the lamp panels.](#2026-11-08-for-this-week-i-want-some-cool-project-that-will-)
 2. [2026-11-08: In this session I completed the design of one panel of the lamp in Inkscape.](#2026-11-08-in-this-session-i-completed-the-design-of-one-pan)
-3. [2026-11-08: Work session](#2026-11-08-work-session)
+3. [2026-11-08: Making the lasercut files is too confusing.](#2026-11-08-making-the-lasercut-files-is-too-confusing)
 
 ## Design
 
@@ -41,8 +41,13 @@ But this thing took me so much time as I had to keep in mind that design will be
 
 [Timelapse](https://lookout.hackclub.com/api/media/94e1f823-c8d0-4ecd-b581-5bc14f40f852/video.mp4)
 
-### 2026-11-08: Work session
+### 2026-11-08: Making the lasercut files is too confusing.
 
 **1.53h**
+
+Making the lasercut files is too confusing.
+I navigated through fusion's different options like- design, manufacture, rotate, arrange, move&copy, etc.
+1. modelled lamp panels
+2. arranged the panels flat so it can be lasercut.
 
 [Timelapse](https://lookout.hackclub.com/api/media/0f0b7337-3ac4-481b-9f23-bbc547546288/video.mp4)
